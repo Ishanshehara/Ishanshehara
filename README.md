@@ -3,7 +3,7 @@
 ##
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-## Network Engineer | NSBM Green University | Tech Enthusiast  
+## Network Engineer | Plymouth University | Tech Enthusiast  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Secure+Networks+with+Innovation.;Coding+Connectivity+for+the+Future.;Welcome+to+My+Tech+World+🌐)
 
@@ -11,7 +11,7 @@
 
 ### 🚀 About Me  
 
-I’m **Ishan Shehara**, a passionate **Computer Networking graduate** from **NSBM Green University (University of Plymouth affiliation)**.  
+I’m **Ishan Shehara**, a passionate **Computer Networking graduate** from **Plymouth University (UK)**.  
 My interests revolve around **network design, security, and automation** — where I strive to make systems faster, safer, and smarter.  
 
 I enjoy exploring **Python scripting**, **network simulation**, and **full-stack development**, blending hardware with intelligent software.
@@ -92,7 +92,7 @@ I enjoy exploring **Python scripting**, **network simulation**, and **full-stack
 - 🧩 **Cisco Certified Network Associate (CCNA)** – *Ongoing*  
 - 🐍 **Python Essentials** – Cisco, *Issued Jul 2025*  
 - ☁️ **AWS Educate: Getting Started with Compute** – AWS, *Issued Jun 2025*  
-- 🧠 **Network Security, Ethical Hacking & Digital Forensics, Malware Analysis**
+- 🧠 **Network Security, Ethical Hacking & Digital Forensics, Malware Analysis*
 
 ---
 
@@ -102,10 +102,12 @@ Teamwork • Communication • Leadership • Problem Solving • Decision Makin
 
 ---
 
+### 🖼️ Tech Inspiration  
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/code.gif" width="600" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" />
   <br><br>
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/code.gif" width="600" />
 </div>
 
 ---
@@ -121,4 +123,3 @@ Teamwork • Communication • Leadership • Problem Solving • Decision Makin
 <p align="center">
   <i>“Securing the Future, One Packet at a Time.” 🚀</i>
 </p>
-
